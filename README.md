@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola! Soy Sofia 👋
 
-<!--
-**sofiapijoan17/sofiapijoan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de la Licenciatura en Ciencia de Datos en la Universidad Austral.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Estudiante de Ciencia de Datos
+- 💻 Actualmente aprendiendo R, programación y Git/GitHub
+- 📚 Este perfil reúne proyectos y trabajos realizados durante la carrera
+- 🌱 En constante aprendizaje
+
+## Tecnologías y herramientas
+
+- R
+- RStudio
+- Git
+- GitHub
